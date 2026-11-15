@@ -14,8 +14,8 @@ trigger alerts, to learn how the Tier 1 SOC workflow works end to end.
 
 ## Lab Environment
 - SIEM: Splunk
-- Attacker: <fill in, e.g. Kali Linux>
-- Victim / log source: <fill in>
+- Attacker: Kali Linux
+- Victim / log source: Ubuntu
 
 ## Skills Demonstrated
 Log analysis, alert creation, attack simulation, incident investigation,
